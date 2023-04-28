@@ -37,6 +37,12 @@ img{
     width: 100%;
 }
 
+footer{
+    background-color: #1A1A1A;
+    color: white;
+    margin-top: 30px;
+}
+
 /* header */
 
 .logo-cntr{
@@ -65,9 +71,13 @@ img{
 
 /* main */
 
+.space-to-header{
+    margin-top: 120px;
+}
+
 .container{
     width: 1200px;
-    margin: 120px auto;
+    margin: 0 auto;
 }
 
 .row{
