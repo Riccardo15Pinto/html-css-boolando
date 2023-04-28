@@ -140,6 +140,13 @@ footer{
     left: 0;
 }
 
+/* Footer */
+
+.container-footer{
+    width: 1200px;
+    margin: 0 auto;
+}
+
 /* utility */
 
 .flex{
