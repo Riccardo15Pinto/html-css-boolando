@@ -1,7 +1,14 @@
 /* reset */
 
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+/* Generics */
+
+header{
+    background-color: orangered;
+    height: 30px;
 }
